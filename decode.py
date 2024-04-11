@@ -6,5 +6,5 @@ def decode(originalPw):
             newPw += str( int(number) - 3 )
         else:
             difference = abs( int(number) - 3)
-            newPw += str( 10 - difference );
+            newPw += str( 10 - difference )
     return newPw
