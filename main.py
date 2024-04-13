@@ -1,5 +1,5 @@
 # antonio de guzman
-from decode import decode
+from lab9.decode import decode
 from encode import encode
 
 encoded = ""
